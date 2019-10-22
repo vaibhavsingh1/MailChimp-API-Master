@@ -4,4 +4,3 @@ This is a project that utilizes the MailChimp API to set up a newsletter signup.
 How to Run: Download all the files and add your mailchimp audienceID and API key into the environment files. Run "npm i" in the folder to install all npm packages and then run "node app.js" to run the application on localhost:3000.
 
 
-![image](https://user-images.githubusercontent.com/46281169/61596567-ba884580-ac1e-11e9-891a-b291b0a80b2b.png)
